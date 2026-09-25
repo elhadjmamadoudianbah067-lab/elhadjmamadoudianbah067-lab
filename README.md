@@ -1,14 +1,23 @@
-## Hi there 👋
+# Hi, I'm **elhadj** 👋
 
-**elhadjmamadoudianbah067-lab/elhadjmamadoudianbah067-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍🏫 About Me
 
-Here are some ideas to get you started:
+- Student at the [Marcy Lab School](https://www.marcylabschool.org/) studying to become a Software Engineer
+- Born in **guinea** → Raised in **guinea** → Currently in **new york**.
+- Outside of work I like to **play soccer**
+- Let's connect via email: **elhadjmamadoudianbah067@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Tech Stack:
+
+### Languages
+
+- JavaScript
+
+### Frameworks & Libraries
+
+- Node.js
+
+### Tools
+
+- Git
+- GitHub
